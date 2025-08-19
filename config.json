@@ -1,0 +1,32 @@
+{
+  "account": {
+    "email": "${TENNIS_USER}",
+    "password": "${TENNIS_PASSWORD}"
+  },
+  "locations": [
+    "Bertrand Dauvin",
+    "Max Rousié",
+    "Valeyre",
+    "Jesse Owens"
+  ],
+  "date": "9/10/2021",
+  "hours": [
+    "8",
+    "19",
+    "18",
+  ],
+  "priceType": [
+    "Tarif plein",
+  ],
+  "courtType": [
+    "Couvert"
+    "Découvert"
+  ],
+  "players": [
+    {
+      "lastName": "Richter",
+      "firstName": "Priscille"
+    },
+  
+  ]
+}
