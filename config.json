@@ -1,0 +1,7 @@
+{
+  "username": "${TENNIS_USER}",
+  "password": "${TENNIS_PASSWORD}",
+  "locations": ["Suzanne Lenglen"],
+  "hours": ["18:00", "19:00"],
+  "players": 2
+}
